@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "@openzeppelin/contracts": "^5.4.0"
+  },
+  "devDependencies": {
+    "@types/node-telegram-bot-api": "^0.64.10"
   }
 }
